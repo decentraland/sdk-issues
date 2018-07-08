@@ -3,7 +3,7 @@
 
 This repo is open to the public as a place where the community can post issues, feature requests or start discussions related to the Decentraland SDK.
 
-The Decentraland SDK is used to create interactive 3D scenes that you can upload to your LAND in Decentraland. To learn more about it, see the [documentation](https://docs.decentraland.org/) and the [API reference](https://decentraland.github.io/cli/).
+The Decentraland SDK is used to create interactive 3D scenes that you can upload to your LAND in Decentraland. To learn more about it, see the [documentation](https://docs.decentraland.org/).
 
 If you've come across any problems while using the SDK, or if there are any key features that would help you and others create great content, please go to the *Issues* tab of this repo and create a *new Issue*.
 

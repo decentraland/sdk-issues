@@ -1,7 +1,11 @@
+
 # sdk-issues
 
 
 This repo is open to the public as a place where the community can post issues, feature requests or start discussions related to the Decentraland SDK.
+
+⚠️ Issues should created here for bugs and reports. Affter that, issues will be migrated to https://github.com/decentraland/sdk
+
 
 The Decentraland SDK is used to create interactive 3D scenes that you can upload to your LAND in Decentraland. To learn more about it, see the [documentation](https://docs.decentraland.org/).
 
